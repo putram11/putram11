@@ -33,9 +33,6 @@ AI integrations & cloud-based applications
 Backend Projects
 
 📫 Reach Me...
-Email: putram.works@gmail.com
-LinkedIn: Putra Mahardika
-GitHub: @putram11
 Let’s build something amazing together! 🚀
 
 😄 Pronouns: He/Him

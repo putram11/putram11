@@ -26,7 +26,7 @@ GameHub News: Community portal for gamers (ReactJS, Express, Cloudinary).
 I’m eager to work on:
 
 Full Stack projects
-Open-source contributions (JavaScript, TypeScript, React Native, Go)
+Open-source contributions (JavaScript, React Native, Go)
 AI integrations & cloud-based applications
 Backend projects
 

@@ -5,14 +5,12 @@ I’m a Full Stack Developer with a background in Management and a passion for b
 
 👀 What I’m Into...
 Web & Mobile Development: Building seamless apps with React.js, Next.js, and React Native.
-Full Stack Engineering: Strong in Node.js, Express, MongoDB, and PostgreSQL.
-Innovation & Scalability: Always looking to optimize and create systems that scale effortlessly.
+Full Stack Engineering: Strong in Node.js, Express, MongoDB, PostgreSQL, and Go.
+Innovation & Scalability: Always optimizing and creating systems that scale effortlessly.
 
-🌱 Currently Learning...
-TypeScript: For cleaner, maintainable code.
-Go: Expanding backend capabilities with microservices.
+🌱 Currently Exploring...
 GraphQL & Apollo: Optimizing data fetching for modern apps.
-E-commerce Automation: Exploring tech + marketing automation.
+E-commerce Automation: Merging tech with marketing automation for smarter solutions.
 
 💼 Experience Highlights...
 Full Stack Developer Intern @ Qwords: Built dynamic, high-performance apps with a focus on UI/UX.
@@ -28,12 +26,13 @@ GameHub News: Community portal for gamers (ReactJS, Express, Cloudinary).
 I’m eager to work on:
 
 Full Stack projects
-Open-source contributions (JavaScript, TypeScript, React Native)
+Open-source contributions (JavaScript, TypeScript, React Native, Go)
 AI integrations & cloud-based applications
-Backend Projects
+Backend projects
 
 📫 Reach Me...
 Let’s build something amazing together! 🚀
 
 😄 Pronouns: He/Him
+
 ⚡ Fun Fact: When I’m not coding, I’m either exploring digital marketing, cooking up new recipes, or playing basketball!

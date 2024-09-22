@@ -35,4 +35,4 @@ Let’s build something amazing together! 🚀
 
 😄 Pronouns: He/Him
 
-⚡ Fun Fact: When I’m not coding, I’m either exploring digital marketing, cooking up new recipes, or playing basketball!
+⚡ Fun Fact: When I’m not coding, I’m either diving into epic gaming sessions, play with my cat, or catching up on the latest tech trends!

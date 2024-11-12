@@ -17,7 +17,7 @@ I’m a **Full Stack Developer** with a background in Management and a passion f
 
 ## 💼 Experience Highlights...
 - **Backend Developer @ MyBuild**.
-- **Full Stack Developer Intern @ Qwords**: Built dynamic, high-performance apps with a focus on UI/UX.
+- **Full Stack Developer Intern @ Qwords**.
 - **Full Stack Developer @Hacktiv8**.
   
 ## 💻 Projects...

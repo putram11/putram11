@@ -16,8 +16,10 @@ I’m a **Full Stack Developer** with a background in Management and a passion f
 - **E-commerce Automation**: Merging tech with marketing automation for smarter solutions.
 
 ## 💼 Experience Highlights...
+- **Backend Developer @ MyBuild**.
 - **Full Stack Developer Intern @ Qwords**: Built dynamic, high-performance apps with a focus on UI/UX.
-
+- **Full Stack Developer @Hactiv8**.
+- 
 ## 💻 Projects...
 - [Nusa Food](https://github.com/Nusa-Foods): Social media for recipe hunters (ReactJS, Next.js, MongoDB).
 - [Simple Sosmed](https://github.com/tim-huru-hara) : realtime social media.

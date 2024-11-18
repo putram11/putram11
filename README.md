@@ -16,8 +16,9 @@ I’m a **Full Stack Developer** with a background in Management and a passion f
 - **E-commerce Automation**: Merging tech with marketing automation for smarter solutions.
 
 ## 💼 Experience Highlights...
+- **IT Developer (Go and React) @ SAMB Group**.
 - **Backend Developer @ MyBuild**.
-- **Full Stack Developer Intern @ Qwords**.
+- **Full Stack Developer @ Qwords**.
 - **Full Stack Developer @Hacktiv8**.
   
 ## 💻 Projects...

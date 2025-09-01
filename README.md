@@ -43,4 +43,19 @@ Let’s build something amazing together! 🚀
 
 ⚡ **Fun Fact**: When I’m not coding, I’m either diving into epic gaming sessions, playing with my cat, or catching up on the latest tech trends!
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/putram11/putram11/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/putram11/putram11/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/putram11/putram11/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ---

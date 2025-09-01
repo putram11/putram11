@@ -1,16 +1,12 @@
 name: Generate GitHub Contribution Snake
 
+permissions:
+  contents: write   # penting! kasih write access global
+
 on:
-  # Jalankan otomatis setiap tengah malam
   schedule:
     - cron: "0 0 * * *" 
-  # Bisa diaktifkan kalau mau test jalan tiap menit
-  # - cron: "* * * * *"
-
-  # Bisa dijalankan manual dari tab Actions
   workflow_dispatch:
-
-  # Jalankan setiap kali ada push ke branch utama
   push:
     branches:
       - master
@@ -19,15 +15,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    permissions: 
-      contents: write   # izin untuk push ke repo
 
     steps:
-      # Checkout repository
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
-      # Generate animasi snake dari kontribusi GitHub user
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -35,13 +30,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          config: |
-            color_snake: "#00ff00"
-            color_dots: "#ffcc00"
-            frame_interval: 100
-            duration: 5
 
-      # Push hasil output ke branch "output"
       - name: Push Snake Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

@@ -54,7 +54,6 @@
 ---
 
 ## 📈 GitHub Activity
-## 📈 GitHub Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putram11/putram11/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/putram11/putram11/output/pacman-contribution-graph.svg">

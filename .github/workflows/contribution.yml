@@ -1,20 +1,19 @@
-name: Generate GitHub Contribution Snake
-
-permissions:
-  contents: write   # penting! kasih write access global
+name: Generate Contribution Animations
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:
+    - cron: "0 0 * * *" # tiap jam 00:00 UTC jalan otomatis
+  workflow_dispatch: # bisa manual run
   push:
     branches:
-      - master
+      - main # jalan tiap ada push ke main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    permissions:
+      contents: write
+    timeout-minutes: 10
 
     steps:
       - name: Checkout Repository
@@ -23,7 +22,14 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
-      - name: Generate GitHub Contribution Snake
+      # ✅ Generate Pac-Man
+      - name: Generate Pac-Man Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      # ✅ Generate Snake
+      - name: Generate Snake Contribution Graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -31,7 +37,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation to Output Branch
+      # ✅ Push semua hasil ke branch output
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

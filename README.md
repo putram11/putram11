@@ -51,8 +51,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=putram11&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true" width="600"/><br/>
-
   <img src="https://nirzak-streak-stats.vercel.app/?user=putram11&theme=maroongold&hide_border=false" width="600"/><br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putram11&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600"/>

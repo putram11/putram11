@@ -1,4 +1,3 @@
-```
 # 👋 Hi, I'm Putra Mahardika (@putram11)
 
 💻 **Full Stack Developer** | 🚀 Passionate about building scalable & reliable apps
@@ -16,7 +15,7 @@
 
 🌱 **Currently exploring**: Cloud Architecture, Microservices, and System Design
 📫 Reach me at: **[putram.works@gmail.com](mailto:putram.works@gmail.com)**
-```
+
 
 ## 📈 GitHub Activity
 

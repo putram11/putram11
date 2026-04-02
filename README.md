@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxjaTJ2ZXZtbGRkNXdyNXJ5ajl1ZWFrb3YwN2hmNWRydmQxbTh0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okfvUCpgArv3y/giphy.gif" width="49%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxjaTJ2ZXZtbGRkNXdyNXJ5ajl1ZWFrb3YwN2hmNWRydmQxbTh0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okfvUCpgArv3y/giphy.gif" width="49%" />
+</div>
+
 <!-- Pac-Man -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putram11/putram11/output/pacman-contribution-graph-dark.svg">

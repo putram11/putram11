@@ -1,24 +1,3 @@
-# 👋 Hi, I'm Putra Mahardika (@putram11)
-
-💻 **Full Stack Developer** | 🚀 Passionate about building scalable & reliable apps
-
-⚡ **Tech Focus**: React.js, Next.js, React Native, Node.js, Go, Python, Java, PostgreSQL
-📌 Experienced in **API design, database management, and end-to-end software solutions**
-🤝 Strong collaboration mindset, bridging **business strategy and software engineering**
-
-🔧 **Core Skills**
-
-* **Frontend**: React.js, Next.js, Redux, React Native, Tailwind CSS, Bootstrap
-* **Backend**: Node.js (Express, Elysia.js), Go (Gin, Echo), Python (Django, FastAPI), Java (Spring Boot)
-* **Database**: PostgreSQL, MySQL, MongoDB, Redis
-* **Others**: GraphQL, RabbitMQ, Docker, CI/CD, Git, Agile/Scrum
-
-🌱 **Currently exploring**: Cloud Architecture, Microservices, and System Design
-📫 Reach me at: **[putram.works@gmail.com](mailto:putram.works@gmail.com)**
-
-
-## 📈 GitHub Activity
-
 <!-- Pac-Man -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putram11/putram11/output/pacman-contribution-graph-dark.svg">

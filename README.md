@@ -5,16 +5,16 @@
 
 <!-- Pac-Man -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putram11/putram11/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/putram11/putram11/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/putram11/putram11/output/pacman-contribution-graph.svg" width="1000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmoux/anmoux/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmoux/anmoux/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/anmoux/anmoux/output/pacman-contribution-graph.svg" width="1000">
 </picture>
 
 <!-- Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/putram11/putram11/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/putram11/putram11/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/putram11/putram11/output/github-contribution-grid-snake.svg" width="1000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmoux/anmoux/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmoux/anmoux/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/anmoux/anmoux/output/github-contribution-grid-snake.svg" width="1000" />
 </picture>
 
 ---
@@ -32,9 +32,9 @@
 
 <div align="center">
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=putram11&theme=maroongold&hide_border=false" width="600"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=anmoux&theme=maroongold&hide_border=false" width="600"/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=putram11&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmoux&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="600"/>
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=putram11&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=anmoux&icon=2&color=0)](https://visitcount.itsvg.in)
 
 </div>
 

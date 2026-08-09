@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,go,python,java,react,nextjs,redux,html,css,bootstrap,tailwind,apollo,nodejs,express,graphql,sequelize,mongodb,postgres,mysql,redis,rabbitmq,django,fastapi,docker,kubernetes,nginx,aws,gcp,git,github,gitlab,linux,vscode" width="1000" />
@@ -61,4 +61,4 @@
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
